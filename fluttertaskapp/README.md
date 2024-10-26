@@ -8,7 +8,7 @@
 
 Step-1: Download or clone this repository -
 
-    git clone https://github.com/aratheunseen/flutter-task-manager.git
+    git clone https://github.com/ramakanth47/fluttertaskapp
 
 Step-2: Go to project root and execute the following command in console to get the required dependencies -
 
